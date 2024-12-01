@@ -1,2 +1,4 @@
 src/main/resources/.env
+# Ignore all files in the target directory
+target/
  
